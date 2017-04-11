@@ -1,0 +1,5 @@
+This repository contains the result of the Coding Dojo http://ccd-school.de/coding-dojo/class-katas/ordered-jobs/["Ordered Jobs"] developed by participants of the Softwerkskammer Ruhrgebiet (Germany) during a https://www.meetup.com/de-DE/Softwerkskammer-Ruhrgebiet/events/238992070/[Meetup].
+
+Developed in Java and Spock with IntelliJ.
+
+
